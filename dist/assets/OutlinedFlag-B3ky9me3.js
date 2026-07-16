@@ -1,1 +1,0 @@
-import{m as t,j as a,n as r}from"./index-DFGk4hMl.js";var e={},u=r;Object.defineProperty(e,"__esModule",{value:!0});var l=e.default=void 0,i=u(t()),o=a;l=e.default=(0,i.default)((0,o.jsx)("path",{d:"m14 6-1-2H5v17h2v-7h5l1 2h7V6zm4 8h-4l-1-2H7V6h5l1 2h5z"}),"OutlinedFlag");export{l as d};
